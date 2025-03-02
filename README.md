@@ -10,13 +10,13 @@ This project analyzes heart disease risk factors using a dataset containing vari
 - Data preprocessing included handling missing values and standardization.
 - The analysis focused on identifying key contributors to heart disease.
 
-Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/heart-disease)
+Dataset Source - [Heart Disease](Dataset/heart_disease.csv)
 
 ## Project
 
-[Project Code](heart-disease-analysis.ipynb)
+**[Project Code](heart-disease-analysis.ipynb)**
 
-<img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/06/485800-Heart-Disease-Facts-Statistics-and-You-1296x728-Header.png?h=1528" width=900>
+<img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/06/485800-Heart-Disease-Facts-Statistics-and-You-1296x728-Header.png?h=1528" >
 
 ## Key Insights
 
@@ -55,23 +55,11 @@ Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/hear
 - Engage in **regular physical activity** to lower heart disease risk.
 - Avoid **smoking and adopt healthier lifestyle habits**.
 
-📌 **Future Research:**
-
-- Conduct **predictive modeling** to refine risk assessment.
-- Further analyze **the combined impact of multiple lifestyle factors on heart disease progression**.
-- Investigate **causal relationships** using advanced statistical techniques.
-
 ## Conclusion
 
 - **Heart disease risk factors include BMI, triglycerides, blood sugar levels, and smoking habits.**
 - Data suggests **preventive measures** should focus on **weight management, triglyceride control, and smoking cessation**.
 - Further **multivariate analysis** is required to determine stronger causality.
-
-## Next Steps
-
-- Apply **machine learning models** (e.g., logistic regression, decision trees) for risk prediction.
-- Validate findings with **larger datasets** to improve generalizability.
-- Conduct **longitudinal studies** to better understand lifestyle impacts on heart disease.
 
 ### 🚀 This analysis provides valuable insights for heart disease prevention. Stay healthy! 💙
 
