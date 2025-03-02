@@ -10,7 +10,7 @@ This project analyzes heart disease risk factors using a dataset containing vari
 - Data preprocessing included handling missing values and standardization.
 - The analysis focused on identifying key contributors to heart disease.
 
-Dataset Source - [Heart Disease](Dataset/heart_disease.csv)
+Dataset - [Heart Disease](Dataset/heart_disease.csv)
 
 ## Project
 
