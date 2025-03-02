@@ -12,6 +12,12 @@ This project analyzes heart disease risk factors using a dataset containing vari
 
 Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/heart-disease)
 
+## Project
+
+[Project Code](heart-disease-analysis.ipynb)
+
+<img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/06/485800-Heart-Disease-Facts-Statistics-and-You-1296x728-Header.png?h=1528" width=900>
+
 ## Key Insights
 
 - **Age Distribution:** The risk of heart disease increases significantly after **age 45**.
