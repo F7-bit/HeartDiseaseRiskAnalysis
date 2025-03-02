@@ -1,43 +1,43 @@
-# Heart Disease Risk Analysis
+# Heart Disease Analysis
 
 ## Overview
 
-This project analyzes heart disease risk factors using a dataset containing various health indicators. The analysis includes data exploration, statistical correlation, and visualization of key variables to identify trends associated with heart disease.
+This project analyzes heart disease risk factors among **individuals aged 30 and below** using a dataset containing various health indicators. The analysis explores statistical correlations and visualizations to identify trends associated with heart disease in younger individuals.
 
 ## Dataset Overview
 
-- The dataset consists of multiple health-related attributes, including **age, gender, cholesterol levels, blood pressure, BMI, blood sugar levels, smoking habits, and physical activity**.
-- Data preprocessing included handling missing values and standardization.
-- The analysis focused on identifying key contributors to heart disease.
+- The dataset includes multiple health-related attributes, such as **age, gender, cholesterol levels, blood pressure, BMI, blood sugar levels, smoking habits, and physical activity**.
+- Data preprocessing steps included handling missing values and standardization.
+- The focus of the analysis was to determine key contributors to heart disease in younger individuals.
 
-Dataset - [Heart Disease](Dataset/heart_disease.csv)
+Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/heart-disease/data)
 
 ## Project
 
-**[Project Code](heart-disease-analysis.ipynb)**
+**[Project Code](https://www.kaggle.com/code/fahed7/heart-disease-analysis)
 
 <img src="https://static01.nyt.com/images/2024/11/19/well/07HEART-DISEASE-RISK/07HEART-DISEASE-RISK-superJumbo.jpg?quality=75&auto=webp" >
 
 ## Key Insights
 
-- **Age Distribution:** The risk of heart disease increases significantly after **age 45**.
+- **Age Group Focus:** The study exclusively examines individuals aged **30 years and below**.
 - **Triglycerides and BMI:** Individuals diagnosed with heart disease tend to have **higher triglyceride levels and BMI**.
-- **Blood Sugar:** Slightly elevated blood sugar levels were observed in individuals with heart disease.
+- **Blood Sugar Levels:** Slightly elevated blood sugar levels were observed in individuals with heart disease.
 - **Gender Differences:** Males exhibited a **higher prevalence** of heart disease compared to females.
-- **Smoking and Lifestyle Factors:** 
-  - Smoking was more common in individuals with heart disease.
-  - Regular physical activity appeared to be associated with a **lower risk** of heart disease.
-  - Alcohol consumption data showed no significant pattern in relation to heart disease.
+- **Lifestyle Factors:**
+  - **Smoking:** More prevalent among individuals diagnosed with heart disease.
+  - **Physical Activity:** Regular exercise was associated with a **lower risk** of heart disease.
+  - **Alcohol Consumption:** No significant correlation was observed between alcohol consumption and heart disease.
 - **Cholesterol & Blood Pressure:** These factors did not show a strong correlation with heart disease in this dataset.
 
 ## Findings
 
 - **Triglycerides and BMI are strong indicators of heart disease risk.**
-- **Blood sugar levels may also contribute** to the likelihood of developing heart disease.
+- **Elevated blood sugar levels may contribute** to heart disease likelihood.
 - **Smoking was linked to a higher prevalence of heart disease**, while regular exercise appeared to be a protective factor.
-- **Gender differences suggest men may be at higher risk** than women.
+- **Men had a higher prevalence of heart disease compared to women.**
 - **The correlation heatmap confirmed that triglycerides and BMI have the strongest relationship with heart disease.**
-- The analysis is **descriptive**, and further statistical testing (e.g., regression modeling) is needed to establish stronger causal relationships.
+- The analysis is **descriptive**, and further statistical testing (e.g., regression modeling) is required to establish stronger causal relationships.
 
 ## Recommendations
 
@@ -46,20 +46,20 @@ Dataset - [Heart Disease](Dataset/heart_disease.csv)
 - Encourage **BMI and triglyceride monitoring** for early detection of heart disease.
 - Promote **smoking cessation programs and increased physical activity**.
 - Educate patients on the **importance of maintaining healthy blood sugar levels**.
-- Consider targeted interventions for individuals **above 45 years of age**.
+- Consider targeted interventions for **younger individuals at risk**.
 
-📌 **Patients:**
+📌 **Individuals at Risk:**
 
 - Maintain a **healthy weight** to reduce heart disease risk.
-- Monitor **blood sugar and triglyceride levels**, particularly for individuals over 45.
-- Engage in **regular physical activity** to lower heart disease risk.
+- Regularly monitor **blood sugar and triglyceride levels** to identify early warning signs.
+- Engage in **consistent physical activity** to lower heart disease risk.
 - Avoid **smoking and adopt healthier lifestyle habits**.
 
 ## Conclusion
 
-- **Heart disease risk factors include BMI, triglycerides, blood sugar levels, and smoking habits.**
-- Data suggests **preventive measures** should focus on **weight management, triglyceride control, and smoking cessation**.
-- Further **multivariate analysis** is required to determine stronger causality.
+- **Heart disease risk factors among young individuals include BMI, triglycerides, blood sugar levels, and smoking habits.**
+- Preventive strategies should emphasize **weight management, triglyceride control, and smoking cessation**.
+- Additional **multivariate analysis** is needed to determine stronger causality and risk prediction.
 
-### 🚀 This analysis provides valuable insights for heart disease prevention. Stay healthy! 💙
+### 🚀 This analysis provides valuable insights for heart disease prevention among young individuals. Stay healthy! 💙
 
