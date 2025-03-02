@@ -16,7 +16,7 @@ Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/hear
 
 **[Project Code](https://www.kaggle.com/code/fahed7/heart-disease-analysis)**
 
-<img src="https://static01.nyt.com/images/2024/11/19/well/07HEART-DISEASE-RISK/07HEART-DISEASE-RISK-superJumbo.jpg?quality=75&auto=webp" width=900 height=400 >
+<img src="https://static01.nyt.com/images/2024/11/19/well/07HEART-DISEASE-RISK/07HEART-DISEASE-RISK-superJumbo.jpg?quality=75&auto=webp" width=800 height=400 >
 
 ## Key Insights
 
