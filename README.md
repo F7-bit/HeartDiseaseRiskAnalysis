@@ -16,7 +16,7 @@ Dataset - [Heart Disease](Dataset/heart_disease.csv)
 
 **[Project Code](heart-disease-analysis.ipynb)**
 
-<img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/06/485800-Heart-Disease-Facts-Statistics-and-You-1296x728-Header.png?h=1528" >
+<img src="https://static01.nyt.com/images/2024/11/19/well/07HEART-DISEASE-RISK/07HEART-DISEASE-RISK-superJumbo.jpg?quality=75&auto=webp" >
 
 ## Key Insights
 
