@@ -10,6 +10,8 @@ This project analyzes heart disease risk factors using a dataset containing vari
 - Data preprocessing included handling missing values and standardization.
 - The analysis focused on identifying key contributors to heart disease.
 
+Dataset Source - [Heart Disease](https://www.kaggle.com/datasets/oktayrdeki/heart-disease)
+
 ## Key Insights
 
 - **Age Distribution:** The risk of heart disease increases significantly after **age 45**.
